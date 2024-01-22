@@ -1,0 +1,7 @@
+var telefono = {
+  marca: "Samsung",
+  precio: 20000,
+  modelo: "S24",
+};
+
+console.log(telefono);
