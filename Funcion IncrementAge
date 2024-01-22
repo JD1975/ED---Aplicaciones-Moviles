@@ -1,0 +1,7 @@
+function incrementedAge(edad) {
+    return edad ** 5; 
+}
+
+var edad = incrementedAge(5);
+
+console.log(edad);
